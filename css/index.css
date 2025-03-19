@@ -225,6 +225,10 @@
     background-image: url('../assets/index/portada-card-proyecto-transparencia.svg');
 }
 
+.Card--4{
+    background-image: url('../assets/index/portada-card-proyecto-newsletter.svg');
+}
+
 /* Media Queries */
 
 /* Móviles */
